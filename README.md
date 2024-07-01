@@ -6,7 +6,6 @@
 
 - Search Functionality: Search for celebrities by name.
 - Accordion View: View and manage celebrity details in an accordion layout.
-- Clicking on an accordion item expands it and collapses all others.
 - Clicking on the same item again collapses it.
 - Manages + and - icons based on the open or collapsed state.
 
