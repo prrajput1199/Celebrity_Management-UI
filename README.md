@@ -23,9 +23,27 @@
 - Country as a text field.
 - Description as a text area.
 
-## Getting Started
+# Getting Started
 
 # Prerequisites
 
 - Node.js (v14 or higher)
 - npm or yarn
+
+# Installation
+
+- Clone the repository:
+
+  ```bash
+  git clone https://github.com/yourusername/Factwise.git
+  cd react-app
+
+- Install dependencies:
+  
+  ```bash
+   npm install
+
+- Run the application::
+  
+  ```bash
+   npm run dev
